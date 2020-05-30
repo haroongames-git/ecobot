@@ -1,0 +1,7 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+ul.remove-bullets { 
+   list-style-type: none;
+}

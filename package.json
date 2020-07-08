@@ -1,0 +1,22 @@
+{
+  "name": "EcoBOT",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "eris": "abalabahaha/eris",
+    "discord-economy": "^1.2.2",
+    "sequelize": "^6.3.0",
+    "sqlite3": "^5.0.0",
+    "discord-leveling": "^1.1.0",
+    "ytdl-core": "^3.1.1",
+    "simple-youtube-api": "^5.2.1",
+    "node-fetch": "^2.6.0",
+    "dblapi.js": "^2.4.0"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
